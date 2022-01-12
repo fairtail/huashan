@@ -5,7 +5,6 @@ world
 ssddaff
 sofkodkfpk
 afopfkpf
-sdk     edit for master
-sdk        edit by hot_fix
+sdk        edit by master
 sforth
 fivew
